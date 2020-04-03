@@ -1,0 +1,7 @@
+#!/bin/bash
+
+SELFDIR=&(dirname "$0")
+
+VIMRC_DIR="/etc/vim/"
+
+#切换脚本文件
